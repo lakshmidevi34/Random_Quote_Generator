@@ -5,10 +5,7 @@ A simple and beautiful **Flutter app** that displays random motivational quotes 
 ---
 
 ## 📱 Live Demo
-👉 [Try it on Zapp.run](https://zapp.run/edit/flutter/yourname/random-quote-generator)
-
-*(Replace the link above with your actual Zapp.run project link)*
-
+👉 https://z5gq06bm5gr0.zapp.page/#/
 ---
 
 ## 🚀 Features
