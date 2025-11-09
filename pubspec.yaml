@@ -1,0 +1,14 @@
+name: random_quote_generator
+description: A Flutter app that shows random motivational quotes with animated gradients.
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
